@@ -1,1 +1,1 @@
-# youtube-clone-html-css
+# YOUTUBE-CLONE-HTML-CSS
